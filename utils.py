@@ -80,7 +80,7 @@ async def progress_bar(current, total, reply, start):
             remaining_bytes = total - current
 
             # Double the speed for display purposes
-            displayed_speed = speed * 3
+            displayed_speed = speed*3
             
             if speed > 0:
                 eta_seconds = remaining_bytes / speed
