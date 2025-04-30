@@ -13,27 +13,27 @@
     "env": {
         "API_ID": {
             "description": "Enter Your Api Id",
-            "value": "20369373",
+            "value": "22923037",
             "required": true
         },
         "API_HASH": {
             "description": "Enter Your Api Hash",
-            "value": "0d53cc7f978163fed3263be5cbb20ab0",
+            "value": "dfb3666878b3851460a58461c5a50f5b",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Enter Your Telegram Bot Token",
-            "value": "7129448604:AAHO_0qmWbacJKdr3ovcnJcTJOJCZI2QwWY",
+            "value": "8193339718:AAHa0oIw2eeBX6tXiUPb0Tt3I2X7a0bW2jE",
             "required": true
         },
         "OWNER_ID": {
             "description": "User id of bot owner ",
-            "value": "7003164707",
+            "value": "6554343173",
             "required": true
         },
         "SUDO_USERS": {
             "description": "𝑺𝒖𝒅𝒐 𝑰𝑫'𝒔 (𝒀𝒐𝒖 𝑪𝒂𝒏 𝑨𝒅𝒅 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒆 𝑩𝒚 𝑮𝒊𝒗𝒊𝒏𝒈 𝑺𝒑𝒂𝒄𝒆)",
-            "value": "7003164707",
+            "value": "6554343173",
             "required": true
         }
     },
