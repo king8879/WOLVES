@@ -47,9 +47,9 @@ zipimg = "https://i.postimg.cc/C5T2SN20/photo-2025-04-02-18-19-12.jpg"
 
 watermark_text = "𝗪𝗢𝗟𝗩𝗘𝗦 🐺"
 credit =("𝗪𝗢𝗟𝗩𝗘𝗦 🐺") 
-OWNER = int(os.environ.get("OWNER",6326227068))
+OWNER = int(os.environ.get("OWNER",6554343173))
 try: 
-    ADMINS=[6326227068] 
+    ADMINS=[6554343173] 
     for x in (os.environ.get("ADMINS", "6326227068").split()):  
         ADMINS.append(int(x)) 
 except ValueError: 
@@ -66,12 +66,12 @@ api_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzkxOTMzNDE5NS
 token_cp ='eyJjb3Vyc2VJZCI6IjQ1NjY4NyIsInR1dG9ySWQiOm51bGwsIm9yZ0lkIjo0ODA2MTksImNhdGVnb3J5SWQiOm51bGx9r'
     
 # Define the owner's user ID
-OWNER_ID = 6326227068 # Replace with the actual owner's user ID
+OWNER_ID = 6554343173 # Replace with the actual owner's user ID
 
 # List of sudo users (initially empty or pre-populated)
-SUDO_USERS = [6326227068]
+SUDO_USERS = [6554343173]
 
-AUTH_CHANNEL = -1002302891850
+AUTH_CHANNEL = -1002550959605
 
 # Function to check if a user is authorized
 def is_authorized(user_id: int) -> bool:
