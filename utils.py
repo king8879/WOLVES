@@ -76,7 +76,7 @@ async def progress_bar(current, total, reply, start):
         else:
             perc = f"{current * 100 / total:.1f}%"
             elapsed_time = round(diff)
-            speed = current / elapsed_time
+            speed = current*3 / elapsed_time
             remaining_bytes = total - current
 
             # Double the speed for display purposes
